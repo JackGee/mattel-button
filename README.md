@@ -13,9 +13,9 @@ The simplicity of this project is perhaps the reason I look forward to the devel
     ---Please feel free to pull this and create simple changes that you feel necessary---
     
   NOTABLE FIXES REQUIRED FOR Ver_0.2:
-  Wrapper for mattel to prevent the button from normal to hover state that occurs at bottom of the element near box-shadow.
-  Different colorways and general stylings
-  Overall high level of responsive design
+  - Wrapper for mattel to prevent the button from normal to hover state that occurs at bottom of the element near box-shadow.
+  - Different colorways and general stylings
+  - Overall high level of responsive design
   
   Thank you very much!
   - Jack Gordon
