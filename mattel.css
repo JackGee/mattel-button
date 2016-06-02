@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.mattel {
+	cursor: pointer;
+	transition: all 0.3s;
+	display: inline-block;
+	padding: 20px 15px 20px 15px;
+	background-color: #3C928C;
+	background-color: #E3586E;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	text-align: center;
+	border: 0px;
+	border-radius: 12px;
+	box-shadow: 0px 10px 8px 0px rgba(0, 0, 0, 0.5);
+}
+
+.mattel:hover {
+	box-shadow: 0px 30px 18px -10px rgba(0, 0, 0, 0.3);
+	transform: translate(0px, -10px);
+}
+
+.mattel:focus {
+	outline: none;
+}
